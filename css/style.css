@@ -1,0 +1,43 @@
+.body {
+
+    background-image:
+    radial-gradient(
+    #2C2C32,
+    black
+    );
+    color: white;
+    font-family: Source Sans Pro;
+    font-weight: lighter;
+    text-align: center;
+
+}
+
+.mudardiv {
+    display: inline-flex;
+    justify-content: center;
+    background-color: #0abab5;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 5px;
+    width: 10em;
+    height: 7em;
+}
+
+h1 {
+    font-weight: lighter;
+    font-size: 40px;
+}
+
+.descAtiv {
+    font-style: oblique;
+    padding-bottom: 1em;
+}
+
+hr {
+    border: solid transparent 1em;
+}
+
+fieldset {
+    border: transparent;
+}
